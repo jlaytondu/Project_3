@@ -43,6 +43,7 @@ Our final procces will be using a decsision tree algorithm with the grid search 
 #### Resources
 * https://towardsdatascience.com/machine-learning-project-predicting-boston-house-prices-with-regression-b4e47493633d
 * https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114
+* https://medium.com/@lhessani.sa/what-is-the-difference-between-training-and-test-dataset-91308080a4e8
 * 21-Machine Learning Activities
   * Day 2: 09-Ins_GridSearch, 1-Stu_GridSearch, Ins_DecisionTrees_Graphviz
   * Day 3: 02-Evr_First_Neural_Network, 06-Ins_Saving_Models, 08-Ins_Kmeans, 09-Stu_Kmeans
