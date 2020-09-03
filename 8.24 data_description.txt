@@ -366,7 +366,7 @@ BsmtUnfSF: Unfinished square feet of basement area
 DROPPING
 TotalBsmtSF: Total square feet of basement area
 
-KDROPPING
+DROPPING
 Heating: Type of heating
 		
        Floor	Floor Furnace
